@@ -37,6 +37,13 @@ The system is designed to improve availability, automate failover processes, and
 
 ---
 
+## Live Website
+- Dynamic DNS using DuckDNS
+- Public website hosting using EC2 + NGINX
+
+Project URL:
+http://gaurishdr.duckdns.org
+
 ## 🖼️ Screenshots
 
 Upload your AWS screenshots here and rename them like:
